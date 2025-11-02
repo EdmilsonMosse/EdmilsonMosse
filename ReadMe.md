@@ -1,5 +1,15 @@
 # 💫 About Me:
-Sou estudante de Engenharia Informatica<br>Estou a procura de novas oportunidades <br>Trabalho geralmente com backend
+E aí, devs! 👋 Eu sou o Edmilson Mosse
+
+- 🎯 Atualmente: Construindo o futuro como Backend Developer na @kodeza e conquistando meu diploma em **Engenharia Informática**.
+- 🌐 Mult stack: Da infraestrutura de redes à lógica de negócio dos apps.
+- 🚀 Sempre aprendendo: Absorvendo tudo sobre arquitetura de microsserviços e boas práticas de código.
+
+**Tech Stack:**
+`Java` `Spring Boot` `Python` `Django/FastAPI` `PostgreSQL` `MySQL` `Docker` `Git` `APIs REST`
+
+**Vamos conversar?**
+Estou sempre animado para discutir ideias, projetos ou simplesmente trocar uma ideia sobre tech!
 
 
 ## 🌐 Socials:

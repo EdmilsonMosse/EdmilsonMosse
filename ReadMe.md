@@ -1,16 +1,10 @@
 # 💫 About Me:
-E aí, devs! 👋 Eu sou o Edmilson Mosse
-
-- 🎯 Atualmente: Construindo o futuro como Backend Developer na @kodeza e conquistando meu diploma em **Engenharia Informática**.
-- 🌐 Experiência em redes de computadores e infraestrutura
-- 🌐 Mult stack: Da infraestrutura de redes à lógica de negócio dos apps.
-- 🚀 Sempre aprendendo: Absorvendo tudo sobre arquitetura de microsserviços e boas práticas de código.
+E aí, devs! 👋 Eu sou o Edmilson Mosse, Engenheiro Informático com foco em Backend Development e experiência prática em redes de computadores, infraestrutura e desenvolvimento de software.
+Atualmente: Backend Developer na Kodeza, desenvolvendo soluções tecnológicas e sistemas orientados às necessidades reais de negócio.
 
 **Tech Stack:**
 `Java` `Python` `PHP` `Laravel` `Node.js` `Express.js` `React` `MySQL` `Firebase` `Supabase` `C` `C++` `Bootstrap`
 
-**Vamos conversar?**
-Estou sempre animado para discutir ideias, projetos ou simplesmente trocar uma ideia sobre tech!
 
 
 ## 🌐 Socials:
